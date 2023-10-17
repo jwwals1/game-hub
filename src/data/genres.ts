@@ -9,7 +9,7 @@ export default [
         {
           "id": 3498,
           "slug": "grand-theft-auto-v",
-          "name": "Grand Theft Auto V",
+          "name": "Grand Theft Auto V", 
           "added": 20111
         },
         {
